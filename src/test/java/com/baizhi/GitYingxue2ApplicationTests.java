@@ -10,6 +10,7 @@ class GitYingxue2ApplicationTests {
     void contextLoads() {
 
         System.out.println("代码修改 提交应学2 项目");
+        System.out.println("======测试提交代码");
     }
 
 
